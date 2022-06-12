@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ChangSol%20GitHub%20Profile&descAlignY=54&descAlign=62)
 
+<br>
+
 <p align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangSol&count_bg=%235ABE0D&title_bg=%238C8282&icon=&icon_color=%23B08080&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  <br>  
-  
-<Strong>📧Email📧</Strong>
-<br>
-ckdwnsla12@naver.com
-<br>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChangSol&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br><br>
+<Strong>📧Email📧</Strong><br>ckdwnsla12@naver.com<br>
 </p>
 
 <br>
