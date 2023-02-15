@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 💻백엔드 개발자로 활동하고 있습니다💻
 
-<Strong>📧Email📧</Strong>
+<Strong>📧 Email 📧</Strong>
 
 ckdwnsla12@naver.com
 
@@ -68,7 +68,7 @@ ckdwnsla12@naver.com
 
 ---
 
-<Strong>👌 CoWork Tool 👌️</Strong><br>
+<Strong>🙌 CoWork Tool 🙌️</Strong><br>
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
