@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 💻 백엔드 개발자로 활동하고 있습니다. 💻
 
+<Strong>✏ velog ✏</Strong>
+
+https://velog.io/@changsol
+
 📬 문의가 있으신 경우 아래로 연락부탁드립니다. 📬
 
 <Strong>📧 Email 📧</Strong>
